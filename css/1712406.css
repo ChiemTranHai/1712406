@@ -1,0 +1,35 @@
+body{
+    font-size:16px;
+    line-height: 20px;
+    columns: #7c7c7c;
+}
+#menu li a{
+    font-family: 'Arial',cursive;
+    columns: #333333;
+
+}
+#menu li a:hover,
+#menu li.active a{
+    color:#2FA0D5;
+    background: none;
+}
+#introduce{
+    background: #2FA0D5;
+    margin-top: 20px;
+}
+.color{
+    font-size: 'Roboto',cursive;
+    color:white;
+}
+#btnDatHang{
+    width:60px;
+    height:21px;
+    text-align:center;
+    margin: auto;
+}
+#product{
+    position: fixed; 
+    will-change: top, left; 
+    left: 1%; 
+    top: 10%;
+}
